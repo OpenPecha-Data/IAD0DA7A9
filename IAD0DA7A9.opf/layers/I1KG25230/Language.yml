@@ -1,0 +1,99 @@
+id: 50137d15afb6482aa0e5446451d5c008
+annotation_type: Language
+revision: '00001'
+annotations:
+  d5a43afca3464a67a82340c81df72103:
+    span:
+      start: 39
+      end: 172
+    language: en
+  23185cbd31e14913bb9dc4a8391d41c3:
+    span:
+      start: 315
+      end: 630
+    language: en
+  076fe13650494e788cda715550fa078b:
+    span:
+      start: 1116
+      end: 1159
+    language: en
+  6088f9cbb58b48a5bb9749b50836ed56:
+    span:
+      start: 1948
+      end: 1970
+    language: en
+  96a2e0392a0847cba27cd4c470541a16:
+    span:
+      start: 7202
+      end: 7252
+    language: en
+  ddb08f4bf19446c89326cdbd991f50ec:
+    span:
+      start: 21641
+      end: 21689
+    language: en
+  ed23dd513c7e4b85b22cdfa70f51cda4:
+    span:
+      start: 49712
+      end: 49745
+    language: en
+  c9545b9eb3cf4dd7879a706856ef20f5:
+    span:
+      start: 74056
+      end: 74123
+    language: en
+  cf4aea8423f94b1ca1dd08615ea1825c:
+    span:
+      start: 75754
+      end: 75782
+    language: en
+  2f464cb71ba844b58f8ae055d5ef9e35:
+    span:
+      start: 108776
+      end: 108803
+    language: en
+  9836081edec84bd9bc98a675eda61fc9:
+    span:
+      start: 109987
+      end: 110008
+    language: en
+  6c214bba8ad641969c9a3eafbc0b66e9:
+    span:
+      start: 120939
+      end: 120959
+    language: en
+  6aa753bd195141c0a4ade4a6ae7497ff:
+    span:
+      start: 136059
+      end: 136086
+    language: en
+  9b5005c895b2469db688351b226f3fe4:
+    span:
+      start: 143966
+      end: 144011
+    language: en
+  a0a4f91456094b179d5ec666964e3173:
+    span:
+      start: 155320
+      end: 155365
+    language: en
+  92ec6a82b5474f7fb2e94c3af028ecf0:
+    span:
+      start: 156917
+      end: 156975
+    language: en
+  a796da716c17416a855e44a74e99a2c4:
+    span:
+      start: 157420
+      end: 157468
+    language: en
+  ca67fa57ea294b80a659d4750da2a7f3:
+    span:
+      start: 160598
+      end: 160661
+    language: en
+  26f86166077148bd88b9ca4f79333973:
+    span:
+      start: 175852
+      end: 175949
+    language: en
